@@ -1,0 +1,23 @@
+{
+  "name": "leya-router",
+  "version": "0.0.1",
+  "description": "request router",
+  "main": "leya-router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leya",
+    "router"
+  ],
+  "author": "froncheek <jerwin.ilagan@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froncheek/leya-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/froncheek/leya-router/issues"
+  },
+  "homepage": "https://github.com/froncheek/leya-router#readme"
+}
